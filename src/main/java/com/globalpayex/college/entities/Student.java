@@ -4,7 +4,7 @@ public class Student extends CollegeUser {
 //    Object Attribute
 //    instance variable
     int roll;
-    int mark;
+    public static int mark;
     static int count;
     public Student(){
         this("NA",-1,'m',0);
@@ -47,5 +47,6 @@ public class Student extends CollegeUser {
         return 'F';
 
     }
+
 
 }
