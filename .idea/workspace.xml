@@ -4,31 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67088e9-f003-4a0a-a93f-c6ad6a884c01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/GradeDistribution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/PrintSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/StudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/EvenOddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/GradeDistributionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/PrintSeriesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/StudentDetailsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/college/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/college/entities/StudentTest.java" afterDir="false" />
+    <list default="true" id="a67088e9-f003-4a0a-a93f-c6ad6a884c01" name="Changes" comment="Firstdayjava">
+      <change afterPath="$PROJECT_DIR$/src/main/java/abc/geometry/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abc/geometry/ShapeStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/arrays/AverageOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/college/entities/CollegeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/college/entities/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/geometry/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/geometry/entities/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/arrays/AverageOfArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/college/entities/ProfessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/geometry/entities/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/globalpayex/StudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/StudentDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globalpayex/StudentDetailsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/StudentDetailsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globalpayex/college/entities/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/globalpayex/college/entities/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globalpayex/college/entities/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/globalpayex/college/entities/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +59,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Maurya22&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Maurya22/firstdayjava.git&quot;,
+    &quot;accountId&quot;: &quot;f58c1621-d043-4224-ac1c-e0d00bd615cf&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -87,6 +95,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.AverageOfArrayTest.executor": "Run",
+    "Gradle.AverageOfArrayTest.testArray.executor": "Run",
+    "Gradle.AverageOfArrayTest.testNextGenSum.executor": "Run",
     "Gradle.EvenOddTest.executor": "Run",
     "Gradle.EvenOddTest.testEvenOdd.executor": "Run",
     "Gradle.EvenOddTest.testIsEven.executor": "Run",
@@ -94,20 +105,26 @@
     "Gradle.GradeDistributionTest.testGrade.executor": "Run",
     "Gradle.GradeDistributionTest.testgradeDistribution.executor": "Run",
     "Gradle.PrintSeriesTest.executor": "Run",
+    "Gradle.ProfessorTest.executor": "Run",
+    "Gradle.ProfessorTest.testProfessor.executor": "Run",
+    "Gradle.ProfessorTest.testgetDetails.executor": "Run",
     "Gradle.RectangleTest.area.executor": "Run",
-    "Gradle.RectangleTest.executor": "Coverage",
+    "Gradle.RectangleTest.executor": "Run",
     "Gradle.RectangleTest.perimeter.executor": "Run",
+    "Gradle.RectangleTest.testShapeStatistics.executor": "Run",
     "Gradle.StudentDetailsTest.executor": "Run",
     "Gradle.StudentDetailsTest.teststudentsdata.executor": "Run",
     "Gradle.StudentTest.executor": "Run",
     "Gradle.StudentTest.testGrade.executor": "Run",
+    "Gradle.StudentTest.testNewWayOfStudentCreation.executor": "Run",
     "Gradle.StudentTest.testObjectCreation.executor": "Run",
+    "Gradle.StudentTest.testValidGender.executor": "Run",
     "Gradle.StudentTest.testgetDetails.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "seconddayjava",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/GPXPWRUSR/Documents/Training/firstjava/src/main/java/org/example/Main.java"
   }
@@ -117,12 +134,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.globalpayex.geometry.entities" />
       <recent name="com.globalpayex.college.entities" />
+      <recent name="com.globalpayex.arrays" />
       <recent name="com.globalpayex" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StudentTest.testGrade">
-    <configuration name="StudentDetailsTest.teststudentsdata" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.RectangleTest">
+    <configuration name="ProfessorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -135,7 +154,55 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.globalpayex.StudentDetailsTest.teststudentsdata&quot;" />
+            <option value="&quot;com.globalpayex.college.entities.ProfessorTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="RectangleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.globalpayex.geometry.entities.RectangleTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="RectangleTest.testShapeStatistics" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.globalpayex.geometry.entities.RectangleTest.testShapeStatistics&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -160,54 +227,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;com.globalpayex.college.entities.StudentTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="StudentTest.testGrade" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.globalpayex.college.entities.StudentTest.testGrade&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="StudentTest.testObjectCreation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.globalpayex.college.entities.StudentTest.testObjectCreation&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -244,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.StudentTest.testGrade" />
+        <item itemvalue="Gradle.RectangleTest" />
+        <item itemvalue="Gradle.RectangleTest.testShapeStatistics" />
         <item itemvalue="Gradle.StudentTest.testgetDetails" />
         <item itemvalue="Gradle.StudentTest" />
-        <item itemvalue="Gradle.StudentTest.testObjectCreation" />
-        <item itemvalue="Gradle.StudentDetailsTest.teststudentsdata" />
+        <item itemvalue="Gradle.ProfessorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +280,15 @@
       <option name="presentableId" value="Default" />
       <updated>1718778865050</updated>
     </task>
+    <task id="LOCAL-00001" summary="Firstdayjava">
+      <option name="closed" value="true" />
+      <created>1718799550754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718799550754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,11 +296,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="seconddayjava" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Firstdayjava" />
+    <option name="LAST_COMMIT_MESSAGE" value="Firstdayjava" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/firstjava$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1718782146745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
