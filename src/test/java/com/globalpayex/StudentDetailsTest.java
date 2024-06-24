@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
+import static com.globalpayex.StudentDetails.student;
 import static org.junit.jupiter.api.Assertions.*;
 
 class StudentDetailsTest {
@@ -16,7 +17,7 @@ class StudentDetailsTest {
         var marks = 75;
 
         var expected = "Name :Ashish\nRoll no :12\nAge :21\nMarks :75";
-        var actual = StudentDetails.student(name,rollno,age,marks);
+        var actual = StudentDetails.student(name, rollno, age, marks);
 
         assertEquals(expected,actual);
 
