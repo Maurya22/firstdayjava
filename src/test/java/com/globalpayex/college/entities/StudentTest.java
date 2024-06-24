@@ -50,7 +50,7 @@ class StudentTest {
     @Test
     void testGrade(){
         var s1 =new Student();
-        s1.mark =70;
+//        s1.getMark() =70;
         char expected = 'A';
         char actual = s1.grade();
         assertEquals(expected,actual);
